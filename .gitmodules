@@ -1,0 +1,12 @@
+[submodule "JSON-js"]
+	path = js/JSON-js
+	url = https://github.com/jquery-collection/JSON-js
+[submodule "jquery"]
+	path = js/jquery
+	url = https://github.com/jquery-collection/jquery
+[submodule "js/jQuery-Skinner"]
+	path = js/jQuery-Skinner
+	url = https://github.com/jquery-collection/jQuery-Skinner/
+[submodule "js/jquery-mousewheel"]
+	path = js/jquery-mousewheel
+	url = https://github.com/jquery-collection/jquery-mousewheel
