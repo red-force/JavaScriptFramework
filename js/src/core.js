@@ -420,7 +420,7 @@
 							fileDomType = '',
 							urlName = '',
 							checkFunc = function() {
-								$(head).find(fileDomType).each(function() {
+								$('head').find(fileDomType).each(function() {
 										var $this = $(this);
 										if ($this.attr(urlName) === fileName) {
 											fileRef = null;
