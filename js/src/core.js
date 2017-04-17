@@ -433,7 +433,7 @@
 								urlName = 'src';
 								fileRef = document.createElement('script');
 								fileRef.setAttribute("type", "text/javascript");
-								fileRef.setAttribute("src", filename);
+								fileRef.setAttribute("src", fileName);
 								checkFunc();
 								break;
 							case 'css':
@@ -442,7 +442,7 @@
 								fileRef = document.createElement("link");
 								fileRef.setAttribute("rel", "stylesheet");
 								fileRef.setAttribute("type", "text/css");
-								fileRef.setAttribute("href", filename);
+								fileRef.setAttribute("href", fileName);
 								checkFunc();
 								break;
 							case 'png':
